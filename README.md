@@ -14,7 +14,7 @@ Este repositório reúne o código, os slides e o relatório desenvolvidos para 
 
 ## Estrutura do Repositório
 
-```
+
 
 ├── autoenconder.ipynb          # Notebook com todo o código do projeto
 ├── autoenconderslides.pdf      # Slides da apresentação
@@ -24,7 +24,7 @@ Este repositório reúne o código, os slides e o relatório desenvolvidos para 
 ├── LICENSE                     # Licença MIT
 └── .gitignore
 
-```
+
 
 ## Descrição do Código
 
