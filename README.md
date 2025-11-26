@@ -1,4 +1,3 @@
-```markdown
 # Autoencoders vs Variational Autoencoders
 
 Este repositório reúne o código, os slides e o relatório desenvolvidos para o trabalho da disciplina de Redes Neurais (NES), cujo objetivo foi comparar o comportamento de um Autoencoder clássico com um Variational Autoencoder (VAE) utilizando o dataset Fashion-MNIST. Todo o material busca apresentar, de forma clara e prática, como cada modelo lida com reconstrução, compressão e estruturação do espaço latente.
@@ -14,7 +13,7 @@ Este repositório reúne o código, os slides e o relatório desenvolvidos para 
 
 ## Estrutura do Repositório
 
-
+``` markdown
 
 ├── autoenconder.ipynb          # Notebook com todo o código do projeto
 ├── autoenconderslides.pdf      # Slides da apresentação
@@ -25,6 +24,7 @@ Este repositório reúne o código, os slides e o relatório desenvolvidos para 
 └── .gitignore
 
 
+```
 
 ## Descrição do Código
 
@@ -86,11 +86,9 @@ O relatório sintetiza toda a análise em duas páginas, cobrindo:
 ## Como Reproduzir
 
 1. Baixar o repositório ou clonar via:
-```
 
 git clone [https://github.com/oalmirsergio/Autoencoders-vs-VAE.git](https://github.com/oalmirsergio/Autoencoders-vs-VAE.git)
 
-```
 2. Abrir o notebook no Google Colab ou ambiente local com TensorFlow.
 3. Executar sequencialmente cada célula.
 4. Gerar novamente as imagens e visualizações, se desejado.
@@ -105,4 +103,3 @@ git clone [https://github.com/oalmirsergio/Autoencoders-vs-VAE.git](https://gith
 ## Contato
 
 almirsergio.a@gmail.com
-```
